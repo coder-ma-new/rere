@@ -7,5 +7,6 @@ public class lx {
     public static void main(String[] args) {
         ToolUtil toolUtil=new ToolUtil();
         toolUtil.sayHI();
+        System.out.println("1111111111");
     }
 }
