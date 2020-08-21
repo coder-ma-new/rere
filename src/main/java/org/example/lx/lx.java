@@ -8,6 +8,6 @@ public class lx {
         ToolUtil toolUtil=new ToolUtil();
         toolUtil.sayHI();
         System.out.println("1111111111");
-        System.out.println("1111111111");
+        
     }
 }
